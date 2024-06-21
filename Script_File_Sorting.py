@@ -94,7 +94,7 @@ def main():
         return
 
     print(f"Selected directory: {directory}")
-    target_directory_base = "D:/"
+    target_directory_base = "Z:/Public"
 
     process_files_in_directory(directory, target_directory_base)
 
