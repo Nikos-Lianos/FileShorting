@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39a464c0-9d33-4990-b1d6-49e9f2a5cc9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Script_File_Sorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+    <list default="true" id="39a464c0-9d33-4990-b1d6-49e9f2a5cc9c" name="Changes" comment="Made it work for another directory (Z:/Public)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Script_File_Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Script_File_Sorting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nikos-Lianos&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nikos-Lianos/FileShorting.git&quot;,
+    &quot;accountId&quot;: &quot;fa9a9592-a1a5-4fd0-b1fe-74200c8c7dda&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -60,23 +65,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="QodanaHighlightedReportService">
-    <option name="localRunNotPublishedPersistedInfo">
-      <LocalReportPersistedInfo>
-        <option name="path" value="C:\Users\nikos\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
-        <option name="reportGuid" value="0daf7510-b86b-45c9-87fa-2dcc6cf33d40" />
-        <option name="reportName" value="pythonProject/qodana/2024-06-21" />
-      </LocalReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
-  </component>
-  <component name="QodanaReportsService">
-    <option name="descriptions">
-      <ReportDescription localRun="true" path="C:\Users\nikos\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="0daf7510-b86b-45c9-87fa-2dcc6cf33d40" reportId="pythonProject/qodana/2024-06-21" />
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="Script_File_Sorting" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -123,15 +111,41 @@
       <workItem from="1718358208216" duration="8448000" />
       <workItem from="1718891266223" duration="2815000" />
       <workItem from="1718898460047" duration="1930000" />
-      <workItem from="1718985819087" duration="1394000" />
+      <workItem from="1718985819087" duration="1894000" />
+      <workItem from="1718987894147" duration="156000" />
+      <workItem from="1718988559387" duration="9000" />
+      <workItem from="1719320934059" duration="5219000" />
     </task>
+    <task id="LOCAL-00001" summary="initialised the project">
+      <option name="closed" value="true" />
+      <created>1718987425636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718987425636</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Made it work for another directory (Z:/Public)">
+      <option name="closed" value="true" />
+      <created>1718987953323</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718987953323</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialised the project" />
+    <MESSAGE value="Made it work for another directory (Z:/Public)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made it work for another directory (Z:/Public)" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$Excel_Script_opposite.coverage" NAME="Script_File_Sorting Coverage Results" MODIFIED="1718365064963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/pythonProject$Script_File_Sorting.coverage" NAME="Script_File_Sorting Coverage Results" MODIFIED="1718987167141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/pythonProject$Script_File_Sorting.coverage" NAME="Script_File_Sorting Coverage Results" MODIFIED="1718987354069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Script_File_Sorting_py$Script_File_Sorting.coverage" NAME="Script_File_Sorting Coverage Results" MODIFIED="1719324911590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
